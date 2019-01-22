@@ -1,0 +1,25 @@
+footer {
+  background-color: #ACECA1;
+  
+  #footer-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    
+    
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      list-style-type: none;
+
+      li {
+        padding: 2px;
+      }
+    }
+
+    a {
+      color: #000;
+    }
+  }
+}

@@ -1,0 +1,115 @@
+.content-container {
+  background-color: #222E50;
+
+  .content-area {
+    width: 100%;
+    background-color: #222E50;
+
+    .section-info {
+      padding: 26px 0px 26px 26px;
+      background-color: #fff;
+
+      .section-name {
+        margin-bottom: 20px;
+      }
+
+      p {
+        padding-right: 26px;
+      }
+    }
+
+    .posts {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      line-height: 1.3;
+      background-color: #222E50;
+    }
+
+    .post {       
+      padding: 26px 0px 26px 26px;
+      border-bottom: 1px solid #000;
+      background-color: #fff;
+
+      .title {
+        margin-bottom: 10px;
+      }
+    }  
+    
+    table {
+      table-layout: fixed;
+      width: 80%;
+      margin: 0 auto;
+      border-collapse: collapse;
+      background-color: #fff;
+      
+
+      caption {
+        background-color: #fff;
+        padding: 26px 0px 26px 0px;
+      }
+      
+      td, th {
+        padding: 13px 5px 13px 5px;
+        text-align: left;
+      }
+
+      th:nth-child(1), th:nth-child(2) {
+        width: 20%;
+      }
+
+      tr:nth-child(even) {
+        background-color: #8BC34A;
+      }
+
+      tr:hover {
+        background-color: #426B69;
+      }
+
+      thead tr:hover {
+        background-color: #fff;
+      }
+
+      
+    }
+
+     a {
+       text-decoration: none;
+       color: #000;
+       font-weight: bold;
+     }
+
+     a:hover {
+      color: #225044;
+      text-decoration: underline;
+     }
+  }
+}
+
+.visible {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+@media only screen and (min-width: 540px) {
+  .content-area {
+    font-size: 1.3em;
+    
+    .post {
+      margin: 0 auto;
+      width: 580px;
+    }    
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .content-area {
+    .post {
+      width: 900px;
+      margin-left: 10%;
+    }
+  }
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>{{ .Name }} - Jobs in the Desert</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/main.css">
+    {{ partial "gtag" .}}
+  </head>
+  <body>
+    {{partial "header" .}}
+    {{partial "company-info" .}}
+    {{partial "company-browse" .}}
+
+    <div class="content-container">
+      <section id="company_updates" class="content-area visible">
+        <div class="section-info"> 
+          <h3 class="section-name">Latest Updates</h3>
+
+          <p>To get the latest job updates from {{ .Title }}, <a href="{{ .Site.BaseURL }}rss/{{ .Params.rss_feed }}">subscribe to our RSS feed</a> with your favorite RSS reader.</p>
+        </div>
+
+        <div class="posts">
+        {{ range .Pages }}
+          <div class="post">
+          <h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+
+          <div class="post-content">
+            {{ .Content }}
+          </div>
+          </div>
+        {{ end }}
+        </div>
+      </section>
+
+      <section id="job_listing_history" class="content-area hidden">
+        <div class="section-info">
+          <h3 class="section-name">Job Listing History</h3>
+        </div>
+        <div id="table-container">
+          <table>
+            <caption>A list of jobs at {{ .Name }} since {{ .Params.tracking_info }}</caption>
+            <thead>
+              <tr>
+                <th>Open Date</th>
+                <th>Close Date</th>
+                <th>Position Name</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ range (index .Site.Data .Params.listings).positions }}
+              <tr>
+                <td>{{ .open_date }}</td>
+                <td>{{ .close_date }}</td>
+                <td><a href="/{{ .description}}">{{ .name }}</a></td>
+              </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="application_process" class="content-area hidden">
+        <div class="section-info">
+          <h3 class="section-name">Application Process</h3>
+        </div>
+        <div class="post">
+          <div class="post-content">
+            {{ .Content }}
+          </div>
+        </div>
+      </section>
+    </div>
+    
+    {{partial "footer" .}}
+
+    <script src="{{ .Site.BaseURL}}js/index.js"></script>
+  </body>
+</html>

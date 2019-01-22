@@ -1,8 +1,18 @@
 #banner {
-  background-color: #8BC34A;
+  background-color: #ACECA1;
   text-align: center;
   min-height: 80px;
   height: 10vh;
+  padding-top: 30px;
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 #header-nav {
@@ -23,16 +33,17 @@
     }
 
     li:nth-child(1) {
-      border-right: 2px solid #4a820c;
+      border-right: 1px solid #426B69;
     }
 
     li:hover {
-      border-bottom: 5px solid #4a820c
+      border-bottom: 5px solid #8bc34a;
     }
 
     li a {
       display: block;
       text-decoration: none;
+      color: #000;
     }
   }
 }

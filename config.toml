@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://jobsinthedesert.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jobs in the Desert"
+[taxonomies]
+  tag = "tag"
+  category = "categories"
+  company = "companies"

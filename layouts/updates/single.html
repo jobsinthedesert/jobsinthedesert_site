@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>{{ .Name }} - Jobs in the Desert</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/main.css">
+    {{ partial "gtag" .}}
+  </head>
+  <body>
+    {{partial "header" .}}
+    <div class="content">
+      <div class="post-container">
+        <article class="blog-post">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <div class="post-content">{{ .Content }}</div>
+        </article>
+      </div>
+    </div>
+    {{partial "footer" .}}
+  </body>
+</html>

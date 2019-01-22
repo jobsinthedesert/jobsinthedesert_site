@@ -1,0 +1,161 @@
+<style>
+  #hero {
+    height: 50vh;
+    background: linear-gradient(180deg, rgba(34, 193, 195, 0.8) 0%, rgba(253,187,45,0.5) 100%),url('{{ .Site.BaseURL }}hero.jpg');
+    background-size: cover;
+    position: relative;
+    min-height: 360px;
+  }
+  
+  #img-container-parent {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  #img-container-child {
+    position: relative;
+  }
+
+  #hero-content {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 60px;
+    position: absolute;
+    width: 280px;
+  }
+
+  #hero-container {
+    position: relative;
+    z-index: 0;
+  }
+
+  #call {
+    background-color: #b2417b;
+    margin: 0 auto;
+    margin-top: 40px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border: 5px solid #000;
+    width: 80%;
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+
+  #call:hover {
+    background-color: #8BC34A;
+  }
+
+  #latest-updates {
+    padding: 40px 0px;
+  }
+
+  #latest-updates h2 {
+    text-align: center;
+  }
+
+  .updates {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .update {
+    margin: 26px;
+  }
+
+  .img-container-parent {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #3A2E39;
+  }
+
+  .img-container-child {
+    position: relative;
+    padding-bottom: calc(100% * 9 / 16);
+  }
+
+  .img-container-child div {
+    position: absolute;
+  }
+
+  .img-container-child div img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .update-title {
+    border: 1px solid #000;
+  }
+
+  .update-title a {
+    display: block;
+    padding: 26px;
+    color: #000;
+    text-decoration: none;
+  }
+
+  .update-title a:hover {
+    color: #426B69;
+    text-decoration: underline;
+  }
+
+  #about {
+    height: 40vh;
+    background-color: red;
+  }
+
+  @media only screen and (min-width: 540px) {
+    #hero-content {
+      margin: 80px 60px 20px 100px;
+      position: absolute;
+      width: 320px;
+    }
+
+    .updates {
+      flex-direction: row;
+      flex-wrap: wrap;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .update {
+      width: 320px;
+      margin: 26px;
+    }
+  }
+
+  @media only screen and (min-width: 960px) {
+    #hero {
+      height: 60vh;
+      background: linear-gradient(180deg, rgba(34, 193, 195, 0.8) 0%, rgba(253,187,45,0.5) 100%),url('{{ .Site.BaseURL }}hero_1920.jpg');
+      background-size: cover;
+    }
+
+    #hero-content {
+      left: 0;
+      right: 0;
+      margin: 100px auto 0px auto;
+      width: 680px;
+    }
+  }
+
+  @media only screen and (min-width: 1280px) {
+    #hero-content {
+      left: 0;
+      right: 0;
+      margin: 100px auto 0px auto;
+      width: 1020px;
+    }
+  }
+
+  @media only screen and (min-width: 1600px) {
+    #hero {
+      height: 60vh;
+      background: linear-gradient(180deg, rgba(34, 193, 195, 0.8) 0%, rgba(253,187,45,0.5) 100%),url('{{ .Site.BaseURL }}hero_2560.jpg');
+      background-size: cover;
+    }
+  }
+</style>

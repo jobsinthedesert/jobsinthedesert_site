@@ -1,10 +1,10 @@
 <section id="company-info">
-  <h2 id="company-name">Company Name</h2>
+  <h2 id="company-name">{{ .Title }}</h2>
   <div id="company-preview" class="img-container">
     <div id="img-container-parent">
       <div id="img-container-child">
         <div>
-          <img src="{{.Site.BaseURL}}snap.png" class="stretch">
+          <img src="{{.Site.BaseURL}}img/{{ .Params.cover }}">
           <div class="shadow"></div>
         </div>
       </div>
@@ -12,8 +12,8 @@
   </div>
   <nav id="company-links">
     <ul>
-      <li><a href="#">Company Homepage</a></li>
-      <li><a href="#">Company Careers Site</a></li>
+      <li><a href="{{ .Params.site }}">Company Homepage</a></li>
+      <li><a href="{{ .Params.careers }}">Company Careers Site</a></li>
     </ul>
   </nav>
 </section>

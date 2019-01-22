@@ -6,12 +6,49 @@
     <title>Jobs in the Desert</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/main.css">
+    {{ partial "hugo-css" .}}
+    {{ partial "gtag" .}}
   </head>
   <body>
     {{partial "header" .}}
-    {{partial "company-info" .}}
-    {{partial "company-browse" .}}
+    
+    <div id="hero">
+        <div id="hero-content">
+          
+          <h1>A growing list of employment opportunities in the Coachella Valley</h1>
+          <a href="{{ .Site.BaseURL }}companies" id="call">View Companies</a>
+        </div>
+    </div>
 
-    <script src="{{.Site.BaseURL}}js/index.js"></script>
+    <div id="latest-updates">
+      <h2>Latest Updates</h2>
+      
+      {{ $updates := .Site.GetPage "section" "updates" }}
+ 
+      <div class="updates">
+        {{ range first 6 $updates.Pages.ByDate.Reverse }}
+        <div class="update">
+          <div class="update-preview">
+            <div class="img-container-parent">
+              <div class="img-container-child">
+                <div>
+                  <img src="{{ .Site.BaseURL}}img/{{ .Params.thumb }}">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="update-title">
+            <h3><a href="{{ .Permalink}}">{{ .Title }}</a></h3>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+
+    
+    {{partial "footer" .}}
+
   </body>
 </html>

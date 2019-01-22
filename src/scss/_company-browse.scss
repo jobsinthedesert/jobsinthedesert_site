@@ -1,7 +1,7 @@
 #company-nav-container {
   overflow: auto;
   white-space: nowrap;
-  height: 75px;
+  height: 70px;
 
   ul {
     display: flex;
@@ -25,13 +25,19 @@
       }
 
       a:hover {
-        border-bottom: 5px solid #8BC34A;
+        border-bottom: 5px solid #225044;
       }
     }
   }
 }
 
 .active {
-  border-bottom: 5px solid #4a820c;
+  border-bottom: 5px solid #426B69;
   font-weight: bold;
+}
+
+@media only screen and (min-width: 540px) {
+  #company-nav-container {
+    height: 50px
+  }
 }
