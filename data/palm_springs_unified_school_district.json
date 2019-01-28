@@ -2,6 +2,24 @@
   "path": "companies/palm-springs-unified-school-district",
   "positions": [
     {
+      "name": "NUTRITION SERVICES ASST III",
+      "open_date": "2019-01-23",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/NUTRITION_SERVICES_ASST_III.pdf"
+    },
+    {
+      "name": "TRANSFER OPPORTUNITY - Paraprofessional Health",
+      "open_date": "2019-01-22",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Paraprofessional_Health_2019_01-22.pdf"
+    },
+    {
+      "name": "TRANSFER OPPORTUNITY - Paraprofessional Health",
+      "open_date": "2019-01-22",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Paraprofessional_Health_2019_01-22.pdf"
+    },
+    {
       "name": "Behavior Intervention Aide",
       "open_date": "2019-01-18",
       "close_date": "n/a",
@@ -40,31 +58,31 @@
     {
       "name": "Paraprofessional - Bilingual/Classroom Substitute",
       "open_date": "2019-01-16",
-      "close_date": "n/a",
+      "close_date": "2019-01-23",
       "description": "companies/palm-springs-unified-school-district/Paraprofessional_Bilingual_Classroom_Substitute.pdf"
     },
     {
       "name": "Paraprofessional - Health Substitute",
       "open_date": "2019-01-16",
-      "close_date": "n/a",
+      "close_date": "2019-01-23",
       "description": "companies/palm-springs-unified-school-district/Paraprofessional_Health_Substitute.pdf"
     },
     {
       "name": "TRANSFER OPPORTUNITY - OFFICE TECHNICIAN BILINGUAL",
       "open_date": "2019-01-16",
-      "close_date": "n/a",
+      "close_date": "2019-01-24",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_OFFICE_TECHNICIAN_BILINGUAL.pdf"
     },
     {
       "name": "Warehouse Assistant I - Substitute",
       "open_date": "2019-01-16",
-      "close_date": "n/a",
+      "close_date": "2019-01-23",
       "description": "companies/palm-springs-unified-school-district/Warehouse_Assistant_I_Substitute.pdf"
     },
     {
       "name": "TRANSFER OPPORTUNITY - Paraprofessional Health",
       "open_date": "2019-01-15",
-      "close_date": "n/a",
+      "close_date": "2019-01-23",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Paraprofessional_Health.pdf"
     },
     {
@@ -88,7 +106,7 @@
     {
       "name": "Early Childhood Teacher",
       "open_date": "2018-12-03",
-      "close_date": "n/a",
+      "close_date": "2019-01-21",
       "description": "companies/palm-springs-unified-school-district/Early_Childhood_Teacher.pdf"
     },
     {

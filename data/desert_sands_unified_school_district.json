@@ -76,13 +76,13 @@
     {
       "name": "Administrative Assistant/Bilingual (CWA) (Transfer Only)",
       "open_date": "2019-01-08",
-      "close_date": "n/a",
+      "close_date": "2019-01-22",
       "description": "companies/desert-sands-unified-school-district/Administrative_Assistant_Bilingual_CWA_Transfer_Only.pdf"
     },
     {
       "name": "Paraeducator/Special Education (Hoover) (Transfer Only)",
       "open_date": "2019-01-08",
-      "close_date": "n/a",
+      "close_date": "2019-01-22",
       "description": "companies/desert-sands-unified-school-district/Paraeducator_Special_Education_Hoover_Transfer_Only.pdf"
     },
     {
@@ -252,6 +252,12 @@
       "open_date": "2018-08-13",
       "close_date": "n/a",
       "description": "companies/desert-sands-unified-school-district/School_Site_Monitor_Open_Promotional.pdf"
+    },
+    {
+      "name": "Speech-Language Pathologist",
+      "open_date": "2018-07-05",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Speech_Language_Pathologist.pdf"
     },
     {
       "name": "AVID Tutor",

@@ -2,27 +2,45 @@
   "path": "companies/coachella-valley-unified-school-district",
   "positions": [
     {
+      "name": "District Employees ONLY Bus Driver",
+      "open_date": "2019-01-18",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Bus_Driver.pdf"
+    },
+    {
+      "name": "District Employees ONLY Parent/Community Liaison (Peter Pendleton Elementary)",
+      "open_date": "2019-01-18",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Parent_Community_Liaison_Peter_Pendleton_Elementary.pdf"
+    },
+    {
+      "name": "Elementary Principal",
+      "open_date": "2019-01-18",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/Elementary_Principal.pdf"
+    },
+    {
       "name": "District Employees ONLY Campus Security Assistant",
       "open_date": "2019-01-15",
-      "close_date": "n/a",
+      "close_date": "2019-01-24",
       "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Campus_Security_Assistant.pdf"
     },
     {
       "name": "District Employees ONLY Paraeducator Moderate/Severe Disabilities (Cesar Chavez Elementary)",
       "open_date": "2019-01-15",
-      "close_date": "n/a",
+      "close_date": "2019-01-24",
       "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Paraeducator_Moderate_Severe_Disabilities_Cesar_Chavez_Elementary.pdf"
     },
     {
       "name": "District Employees ONLY Parent/Community Liaison (Mountain Vista Elementary)",
       "open_date": "2019-01-15",
-      "close_date": "n/a",
+      "close_date": "2019-01-24",
       "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Parent_Community_Liaison_Mountain_Vista_Elementary.pdf"
     },
     {
       "name": "District Employees Only Safety Supervisor (Children & Family Services)",
       "open_date": "2019-01-15",
-      "close_date": "n/a",
+      "close_date": "2019-01-24",
       "description": "companies/coachella-valley-unified-school-district/District_Employees_Only_Safety_Supervisor_Children_Family_Services.pdf"
     },
     {
