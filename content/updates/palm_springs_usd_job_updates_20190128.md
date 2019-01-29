@@ -9,3 +9,9 @@ companies: "Palm Springs Unified School District"
 ---
 
 Palm Springs Unified School District added one new position and two transfer opportunities today.
+
+### Added: 
+
++ Paraprofessional - Senior
++ TRANSFER OPPORTUNITY - Nutrition Services Assistant I
++ TRANSFER OPPORTUNITY - Paraprofessional Senior

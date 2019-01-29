@@ -9,3 +9,7 @@ companies: "Desert Sands Unified School District"
 ---
 
 Desert Sands Unified School District added a promotional opportunity.
+
+### Added: 
+
++ Administrative Specialist (Promotional Only)
