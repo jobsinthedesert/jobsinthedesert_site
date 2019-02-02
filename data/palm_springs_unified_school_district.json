@@ -2,6 +2,24 @@
   "path": "companies/palm-springs-unified-school-district",
   "positions": [
     {
+      "name": "TRANSFER OPPORTUNITY - Paraprofessional Early Childhood",
+      "open_date": "2019-02-01",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Paraprofessional_Early_Childhood.pdf"
+    },
+    {
+      "name": "TRANSFER OPPORTUNITY - Custodian (Night)",
+      "open_date": "2019-01-31",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Custodian_Night.pdf"
+    },
+    {
+      "name": "TRANSFER OPPORTUNITY - OFFICE SPECIALIST SCHOOL BILINGUAL",
+      "open_date": "2019-01-31",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_OFFICE_SPECIALIST_SCHOOL_BILINGUAL.pdf"
+    },
+    {
       "name": "Paraprofessional - Senior",
       "open_date": "2019-01-28",
       "close_date": "n/a",
@@ -28,13 +46,13 @@
     {
       "name": "School Psychologist",
       "open_date": "2019-01-25",
-      "close_date": "n/a",
+      "close_date": "2019-02-01",
       "description": "companies/palm-springs-unified-school-district/School_Psychologist.pdf"
     },
     {
       "name": "TRANSFER OPPORTUNITY- REGISTRAR",
       "open_date": "2019-01-25",
-      "close_date": "n/a",
+      "close_date": "2019-02-01",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_REGISTRAR.pdf"
     },
     {
