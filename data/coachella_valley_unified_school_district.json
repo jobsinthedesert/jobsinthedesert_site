@@ -2,6 +2,54 @@
   "path": "companies/coachella-valley-unified-school-district",
   "positions": [
     {
+      "name": "Bus Driver",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/Bus_Driver.pdf"
+    },
+    {
+      "name": "District Employees ONLY Paraeducator Moderate Severe Disabilities (John Kelley)",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Paraeducator_Moderate_Severe_Disabilities_John_Kelley.pdf"
+    },
+    {
+      "name": "District Employees ONLY Paraeducator Moderate Severe Disabilities (Valle Del Sol)",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Paraeducator_Moderate_Severe_Disabilities_Valle_Del_Sol.pdf"
+    },
+    {
+      "name": "District Employees ONLY Paraeducator-Early Childhood Development",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Paraeducator_Early_Childhood_Development.pdf"
+    },
+    {
+      "name": "District Employees ONLY Parent/Community Liaison",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Parent_Community_Liaison_20190205.pdf"
+    },
+    {
+      "name": "District Employees ONLY Safety Supervisor (Adult Education) 3.5 hours",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Safety_Supervisor_Adult_Education_3_5_hours.pdf"
+    },
+    {
+      "name": "District Employees Only Special Education Expansion Aide",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_Only_Special_Education_Expansion_Aide.pdf"
+    },
+    {
+      "name": "Safety Supervisor (Children & Family Services) 2 hours",
+      "open_date": "2019-02-05",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/Safety_Supervisor_Children_Family_Services_2_hours.pdf"
+    },
+    {
       "name": "District Employees ONLY Bus Driver",
       "open_date": "2019-01-18",
       "close_date": "2019-01-29",
