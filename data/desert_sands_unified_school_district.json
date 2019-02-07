@@ -2,6 +2,114 @@
   "path": "companies/desert-sands-unified-school-district",
   "positions": [
     {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Art Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Art_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Behavior Specialist",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Behavior_Specialist.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Biology Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Biology_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Chemistry Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Chemistry_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Elementary Classroom Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Elementary_Classroom_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: English Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_English_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Foreign Language Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Foreign_Language_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Math Teacher (All Levels)",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Math_Teacher_All_Levels.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Middle School Core Classroom Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Middle_School_Core_Classroom_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Music Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Music_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Physical Education Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Physical_Education_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Physics Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Physics_Teacher.pdf"
+    },  
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Pre-K Special Education Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Pre-K_Special_Education_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: School Counselor",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_School_Counselor.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: School Nurse",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_School_Nurse.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Social Science Teacher",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Social_Science_Teacher.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Special Education Classroom Teacher (Mild-Moderate)",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Special_Education_Classroom_Teacher_Mild_Moderate.pdf"
+    },
+    {
+      "name": "Anticipated Opening for the 2019-2020 School Year: Special Education Classroom Teacher (Moderate-Severe)",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/desert-sands-unified-school-district/Anticipated_Opening_for_the_2019_2020_School_Year_Special_Education_Classroom_Teacher_Moderate_Severe.pdf"
+    },
+    {
       "name": "Life Guard",
       "open_date": "2019-01-31",
       "close_date": "n/a",
@@ -196,7 +304,7 @@
     {
       "name": "Shadow Hills High School - Girls Wrestling Freshman Coach",
       "open_date": "2018-11-05",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Shadow_Hills_High_School_Girls_Wrestling_Freshman_Coach.pdf"
     },
     {
@@ -208,13 +316,13 @@
     {
       "name": "Shadow Hills High School - Boys' Swim JV Coach",
       "open_date": "2018-10-10",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Shadow_Hills_High_School_Boys_Swim_JV_Coach.pdf"
     },
     {
       "name": "Shadow Hills High School - Girls' Swim JV Coach",
       "open_date": "2018-10-10",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Shadow_Hills_High_School_Girls_Swim_JV_Coach.pdf"
     },
     {
@@ -238,7 +346,7 @@
     {
       "name": "Special Education 2018-2019 School Year: Classroom Teacher (Moderate-Severe)",
       "open_date": "2018-09-24",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Special_Education_2018_2019_School_Year_Classroom_Teacher_Moderate_Severe.pdf"
     },
     {
@@ -256,7 +364,7 @@
     {
       "name": "Special Education - Deaf, Hard of Hearing Teacher-on-Special Assignment (TOSA)",
       "open_date": "2018-08-29",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Special_Education_Deaf_Hard_of_Hearing_Teacher_on_Special_Assignment_TOSA.pdf"
     },
     {
@@ -274,7 +382,7 @@
     {
       "name": "Speech-Language Pathologist",
       "open_date": "2018-07-05",
-      "close_date": "n/a",
+      "close_date": "2019-02-06",
       "description": "companies/desert-sands-unified-school-district/Speech_Language_Pathologist.pdf"
     },
     {
