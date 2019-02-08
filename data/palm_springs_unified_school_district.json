@@ -2,6 +2,18 @@
   "path": "companies/palm-springs-unified-school-district",
   "positions": [
     {
+      "name": "TRANSFER OPPORTUNITY - Vocational Liaison - Special Education",
+      "open_date": "2019-02-07",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Vocational_Liaison_Special_Education.pdf"
+    },
+    {
+      "name": "Vocational Liaison - Special Education",
+      "open_date": "2019-02-07",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/Vocational_Liaison_Special_Education.pdf"
+    },
+    {
       "name": "TRANSFER OPPORTUNITY - Nutrition Services Assistant I",
       "open_date": "2019-02-06",
       "close_date": "n/a",
@@ -58,13 +70,13 @@
     {
       "name": "TRANSFER OPPORTUNITY - Custodian (Night)",
       "open_date": "2019-01-31",
-      "close_date": "n/a",
+      "close_date": "2019-02-07",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Custodian_Night.pdf"
     },
     {
       "name": "TRANSFER OPPORTUNITY - OFFICE SPECIALIST SCHOOL BILINGUAL",
       "open_date": "2019-01-31",
-      "close_date": "n/a",
+      "close_date": "2019-02-07",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_OFFICE_SPECIALIST_SCHOOL_BILINGUAL.pdf"
     },
     {
