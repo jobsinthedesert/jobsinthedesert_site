@@ -2,6 +2,30 @@
   "path": "companies/coachella-valley-unified-school-district",
   "positions": [
     {
+      "name": "District Employees ONLY Campus Security Assistant",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Campus_Security_Assistant_20190208.pdf"
+    },
+    {
+      "name": "District Employees ONLY Safety Supervisor (Adult Education) 3 hours",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Safety_Supervisor_Adult_Education_3_hours.pdf"
+    },
+    {
+      "name": "District Employees ONLY Safety Supervisor (Peter Pendleton Elementary) 3.5 hours",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Safety_Supervisor_Peter_Pendleton_Elementary_3_5_hours.pdf"
+    },
+    {
+      "name": "District Employees ONLY Safety Supervisor (Valle Del Sol Elementary) 2.5 hours",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/coachella-valley-unified-school-district/District_Employees_ONLY_Safety_Supervisor_Valle_Del_Sol_Elementary_2_5_hours.pdf"
+    },
+    {
       "name": "Bus Driver",
       "open_date": "2019-02-05",
       "close_date": "n/a",
@@ -64,7 +88,7 @@
     {
       "name": "Elementary Principal",
       "open_date": "2019-01-18",
-      "close_date": "n/a",
+      "close_date": "2019-02-08",
       "description": "companies/coachella-valley-unified-school-district/Elementary_Principal.pdf"
     },
     {

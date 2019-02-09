@@ -2,6 +2,30 @@
   "path": "companies/palm-springs-unified-school-district",
   "positions": [
     {
+      "name": "Behavior Intervention Aide",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/Behavior_Intervention_Aide_20190208.pdf"
+    },
+    {
+      "name": "Paraprofessional - Health/Permanent Part-time and Substitute Positions",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/Paraprofessional_Health_Permanent_Part-time_and_Substitute_Positions.pdf"
+    },
+    {
+      "name": "Paraprofessional Early Childhood Bilingual-Part-time and Substitute Positions",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/Paraprofessional_Early_Childhood_Bilingual_Part-time_and_Substitute_Positions.pdf"
+    },
+    {
+      "name": "Paraprofessional Early Childhood-Part-time and Substitute Positions",
+      "open_date": "2019-02-08",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/Paraprofessional_Early_Childhood_Part-time_and_Substitute_Positions.pdf"
+    },
+    {
       "name": "TRANSFER OPPORTUNITY - Vocational Liaison - Special Education",
       "open_date": "2019-02-07",
       "close_date": "n/a",
@@ -64,7 +88,7 @@
     {
       "name": "TRANSFER OPPORTUNITY - Paraprofessional Early Childhood",
       "open_date": "2019-02-01",
-      "close_date": "n/a",
+      "close_date": "2019-02-08",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Paraprofessional_Early_Childhood.pdf"
     },
     {
