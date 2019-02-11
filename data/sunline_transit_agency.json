@@ -1,0 +1,35 @@
+{
+  "path": "companies/sunline-transit-agency",
+  "positions": [
+    {
+      "name": "Outreach Technician - Full-time - 1800064",
+      "open_date": "2019-02-06",
+      "close_date": "n/a",
+      "description": "companies/sunline-transit-agency/outreachTechnician_fulltime_1800064_2019-02-11.pdf"
+    },
+    {
+      "name": "Information Technology Administrator - Full-time - 1800073",
+      "open_date": "2019-02-04",
+      "close_date": "n/a",
+      "description": "companies/sunline-transit-agency/informationTechnologyAdministrator_fulltime_1800073_2019-02-11.pdf"
+    },
+    {
+      "name": "Assistant Information Technology Administrator I - Full-time - 1800066",
+      "open_date": "2019-02-04",
+      "close_date": "n/a",
+      "description": "companies/sunline-transit-agency/assistantInformationTechnologyAdministratorI_fulltime_1800066_2019-02-11.pdf"
+    },
+    {
+      "name": "Bus Driver - Part-time - 1800071",
+      "open_date": "2019-02-04",
+      "close_date": "n/a",
+      "description": "companies/sunline-transit-agency/busDriver_parttime_1800071_2019-02-11.pdf"
+    },
+    {
+      "name": "Procurement Specialist - Full-time - 1800074",
+      "open_date": "2019-02-04",
+      "close_date": "n/a",
+      "description": "companies/sunline-transit-agency/procurementSpecialist_fulltime_1800074_2019-02-11.pdf"
+    }   
+  ]
+}
