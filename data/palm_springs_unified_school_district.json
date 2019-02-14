@@ -2,6 +2,24 @@
   "path": "companies/palm-springs-unified-school-district",
   "positions": [
     {
+      "name": "OFFICE SPECIALIST SCHOOL BILINGUAL",
+      "open_date": "2019-02-13",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/oFFICESPECIALISTSCHOOLBILINGUAL_2019-02-13.pdf"
+    },
+    {
+      "name": "Program Specialist - Special Education",
+      "open_date": "2019-02-13",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/programSpecialist_specialEducation_2019-02-13.pdf"
+    },
+    {
+      "name": "PROJECT MANAGER - FACILITIES SERVICES",
+      "open_date": "2019-02-13",
+      "close_date": "n/a",
+      "description": "companies/palm-springs-unified-school-district/pROJECTMANAGER_fACILITIESSERVICES_2019-02-13.pdf"
+    },
+    {
       "name": "TRANSFER OPPORTUNITY - Paraprofessional Health",
       "open_date": "2019-02-12",
       "close_date": "n/a",
@@ -112,13 +130,13 @@
     {
       "name": "TRANSFER OPPORTUNITY - Nutrition Services Assistant I",
       "open_date": "2019-02-06",
-      "close_date": "n/a",
+      "close_date": "2019-02-13",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Nutrition_Services_Assistant_I_20190205.pdf"
     },
     {
       "name": "TRANSFER OPPORTUNITY - Nutrition Services Assistant I",
       "open_date": "2019-02-06",
-      "close_date": "n/a",
+      "close_date": "2019-02-13",
       "description": "companies/palm-springs-unified-school-district/TRANSFER_OPPORTUNITY_Nutrition_Services_Assistant_I_20190205.pdf"
     },
     {
